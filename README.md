@@ -1,6 +1,6 @@
 # news_hive
 
-A new Flutter project.
+Praktikum Pemrograman Mobile Pertemuan 8 Membuat News Hive (Design Figma Slicing UI)
 
 ## Getting Started
 
